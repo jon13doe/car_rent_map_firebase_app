@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677832762023",
+    "project_id": "carrentapp-4321f",
+    "storage_bucket": "carrentapp-4321f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677832762023:android:f2ebade5e1107f9e3ef182",
+        "android_client_info": {
+          "package_name": "com.example.car_rent_map_firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1OlkZcSzNaStsCY9Cl2-1Yuem5QfUicU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

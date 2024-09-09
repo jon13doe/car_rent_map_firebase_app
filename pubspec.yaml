@@ -1,0 +1,31 @@
+name: car_rent_map_firebase_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.4.0
+  cloud_firestore: ^5.4.0
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+  bloc: ^8.1.4
+  flutter_bloc: ^8.1.6
+  get_it: ^7.7.0
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
